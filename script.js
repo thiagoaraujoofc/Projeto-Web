@@ -1,1 +1,1 @@
-"" 
+const nomeCliente = "thiago"
